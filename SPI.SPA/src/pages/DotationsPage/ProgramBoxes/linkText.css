@@ -1,0 +1,17 @@
+.word-wrap {
+  /* Warning: Needed for oldIE support; but words are broken up letter-by-letter */
+  -ms-word-break: break-all;
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  font-family: Archivo;
+  color:black;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 17.5px;
+  text-decoration-color: black;
+}
