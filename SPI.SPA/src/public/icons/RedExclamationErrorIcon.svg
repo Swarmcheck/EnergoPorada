@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.88">
+<path d="M14.8966 21.747V24.183H17.4586V21.747H14.8966ZM14.8966 9V20.046H17.4586V9H14.8966Z" fill="black"/>
+<circle r="12.5" transform="matrix(1 0 0 -1 16.1797 16)" stroke="black" stroke-width="3"/>
+<circle r="14" transform="matrix(1 0 0 -1 16 16)" fill="black"/>
+<path d="M14.5 25.3359H17.5V22.252H14.5V25.3359Z" fill="#EF8271"/>
+<path d="M14.5 19.75H17.5L18 6H14L14.5 19.75Z" fill="#EF8271"/>
+</g>
+</svg>
